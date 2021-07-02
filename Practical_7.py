@@ -4,7 +4,7 @@
 #         if j<=i:
 #             print("*",end=" ")
 #         else:
-#             print(" ",end=" ")	
+#             print(" ",end=" ")
 
 #     print()m:
 # 9

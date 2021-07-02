@@ -7,5 +7,5 @@
 # PRACTICE MAKES PERFECT
 
 String = str(input("ENter Your String:"))
-print("Your Input string is:",String)
-print("Your Converted String is:",String.upper())
+print("Your Input string is:", String)
+print("Your Converted String is:", String.upper())
