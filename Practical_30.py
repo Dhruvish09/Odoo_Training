@@ -1,5 +1,9 @@
-Num1 = int(input("Enter Your 1st Wise Number:"))
-Num2 = int(input("Enter Your 2nd Wise Number:"))
+# 30).  Write a program to generate below Pattern:
 
-for i in range(Num1,Num2):
-    print("*"*(i))
+Num1 = int(input("ENter Your NUmber:"))
+
+
+for i in range(0,Num1):
+    for j in range(0,i+1):
+        print("*",end="")
+    print()

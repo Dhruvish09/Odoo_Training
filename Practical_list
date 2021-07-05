@@ -151,11 +151,11 @@ ris etov ot esir
 
 31). Write a program to print the below pattern
 
-	     *
-	  *  *
-          *  *  *
+        *  *  *
        *  *  *  *
-  *   *   *  *  *
+  *   *   *  *  *	     *
+	  *  *
+  
 
 32). Write a program to generate below Pattern:
 
