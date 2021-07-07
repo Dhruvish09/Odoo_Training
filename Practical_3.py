@@ -11,3 +11,4 @@ for x in range(1, Number+1):
     d[x] = x*x
 
 print(d)
+
