@@ -6,7 +6,7 @@ import random
 x = random.randrange(100, 200, 5)
 print(x)
 
-# import numpy as np
-# from numpy.core.fromnumeric import size
-# x = np.random.randint(low=100, high=200, size=5)
-# print(x)
+import numpy as np
+from numpy.core.fromnumeric import size
+x = np.random.randint(low=100, high=200, size=5)
+print(x)
