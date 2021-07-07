@@ -8,11 +8,11 @@ try:
         if ((i % 7 == 0) & (i % 5 != 0)):
             print(i, "is Divisible by 7 and Not Multiply of 5.")
 except:
-    print("Something Is Wrong Please Enter Valid Input")    
+    print(("\U000026A0"),"Something Is Wrong Please Enter Valid Input")    
 else:
-    print("No More Number found! for Divisible by 7 and Not Multiply by 5")
+    print(("\U0001F4A4"),"No More Number found! for Divisible by 7 and Not Multiply by 5")
 finally:
-    print("Thanx For Data Input")
+    print(("\U0001F4BB"),"Thanx For Data Input")
     
 # for i in range(start, end+1):
 #     if ((i % 7 == 0) & (i % 5 != 0)):
