@@ -4,9 +4,12 @@
 try:
     start = int(input("Enter Start range limit:"))
     end = int(input("Enter End range limit:"))
+    k = []
     for i in range(start, end+1):
         if ((i % 7 == 0) & (i % 5 != 0)):
+            k.append(i)
             print(i, "is Divisible by 7 and Not Multiply of 5.")
+    print("List of Number:",k)
 except:
     print(("\U000026A0"),"Something Is Wrong Please Enter Valid Input")    
 else:

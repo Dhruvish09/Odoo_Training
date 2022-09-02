@@ -1,5 +1,11 @@
 # 30).  Write a program to generate below Pattern:
 
+# * 
+# * * 
+# * * * 
+# * * * * 
+# * * * * *  
+
 Num1 = int(input("ENter Your NUmber:"))
 
 

@@ -5,7 +5,6 @@
 # ['34', '67', '55', '33', '12', '98']
 # ('34', '67', '55', '33', '12', '98')
 
-
 values = input("Input comma seprated numbers : ")
 list = values.split(",")
 tuple = tuple(list)

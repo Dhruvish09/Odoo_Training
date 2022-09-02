@@ -3,8 +3,8 @@
 
 import random
 
-x = random.randrange(100, 200, 5)
-print(x)
+# x = random.randrange(100, 200, 5)
+# print(x)
 
 import numpy as np
 from numpy.core.fromnumeric import size
