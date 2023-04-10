@@ -1,4 +1,7 @@
-Name = str(raw_input("Enter Your Name:"))
-Age =  int(raw_input("Enter Your Age:"))
+def multiply_val(val):
+    return val * 5 
 
-print({"Name":Name,"Age":Age})
+a = [1,2,3,4,5]
+
+print([val for val in map(multiply_val,a)])
+
